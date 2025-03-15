@@ -1,14 +1,13 @@
-package meu.pacote; // Substitua pelo nome correto do seu pacote
-
+package meu.pacote;
 /**
- * Classe Calculadora para realizar operações matemáticas básicas.
+ * Classe Calculadora.
  */
 public class Calculadora {
 
-    /** Constante representando o primeiro número de teste. */
+    /** Primeiro número de teste. */
     private static final double NUMERO1 = 10.0;
 
-    /** Constante representando o segundo número de teste. */
+    /** Segundo número de teste. */
     private static final double NUMERO2 = 5.0;
 
     /**
